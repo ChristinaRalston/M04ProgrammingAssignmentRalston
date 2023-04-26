@@ -1,0 +1,8 @@
+curs.execute('''CREATE TABLE zoo
+    (critter VARCHAR(20) PRIMARY KEY,
+     year INT,
+     title STR,
+     author STR)''')
+
+
+     
